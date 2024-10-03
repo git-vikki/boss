@@ -1,2 +1,6 @@
 hello every one
+<<<<<<< HEAD
 this is vikas
+=======
+is evrything allright
+>>>>>>> FETCH_HEAD
